@@ -1,23 +1,24 @@
 body {
-    background-color: black;
+    background-color: whitesmoke;
 }
 
-#titulo {
-    color: azure;
+h1 {
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
 
 p {
-    color: azure;
+    color: #55525C;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
-#divisao1 h1, h2{
-    color: white;
+.container {
+    text-align: center;
 }
 
-#divisao1 #titulo {
-    color: red;
-}
-
-#divisao2 h3 {
-    color: yellowgreen;
+.container2 {
+    text-align: center;
 }
