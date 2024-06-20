@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+#titulo {
+    color: azure;
+}
+
+p {
+    color: azure;
+}
+
+#divisao1 h1, h2{
+    color: white;
+}
+
+#divisao1 #titulo {
+    color: red;
+}
+
+#divisao2 h3 {
+    color: yellowgreen;
+}
